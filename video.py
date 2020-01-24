@@ -38,6 +38,5 @@ def main():
     except:
         clip.write_videofile(video_file_2)
 
-
 if __name__ == '__main__':
     main()
